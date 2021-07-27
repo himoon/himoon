@@ -3,6 +3,7 @@
 - 🌱 I’m passionately curious.
 - 📖 I wrote a book about introduction to computer programming.
 - 📫 How to reach me ...
+  - [YouTube](https://www.youtube.com/watch?v=LyatteAYod8&list=PLID7cC3lN2TGwMHut3HwvesaltOO_FlaF)
 
 <!---
 himoon/himoon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

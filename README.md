@@ -4,7 +4,7 @@
 - 👀 I’m interested in in travel, photograph, statistics, computer programming, composing music.
 - 📖 I wrote a book about introduction to computer programming.
 
-  [<img src="https://raw.githubusercontent.com/himoon/my-first-coding/main/images/book_cover.jpg" height="150">](https://github.com/himoon/my-first-coding/wiki)
+  [<img src="https://raw.githubusercontent.com/himoon/my-first-coding-se/main/images/se_book_cover.jpg" height="150">](https://github.com/himoon/my-first-coding-se/wiki)
 
 - 📫 How to reach me ...
 

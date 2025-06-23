@@ -1,17 +1,16 @@
 # 👋 Nice to meet you
 
-- 🌱 I’m passionately curious.
-- 🥰 I’m interested in in travel, photograph, statistics, computer programming, composing music.
-- 📖 I wrote a book about introduction to computer programming.
+## 🏠 About me
 
-  [<img src="https://raw.githubusercontent.com/himoon/my-first-coding/main/images/book_cover.jpg" height="150">](https://github.com/himoon/my-first-coding/wiki)
-  [<img src="https://raw.githubusercontent.com/himoon/my-first-coding-se/main/images/se_book_cover.jpg" height="150">](https://github.com/himoon/my-first-coding-se/wiki)
+- 🇰🇷 I'm living in Seoul, South Korea. 
+- 🌱 I'm passionate and curious about learning new things.
+- 🥰 I'm interested in travel, photography, computer programming, and listening to music.
 
-- 📫 How to reach me ...
+## 📚 My books
 
-  [![YouTube Badge](https://img.shields.io/badge/-YouTuBe-red?style=for-the-badge&logo=youtube&link=https://www.youtube.com/channel/UCK3srTIIG3LtqQRDFH1Gh4A)](https://www.youtube.com/channel/UCK3srTIIG3LtqQRDFH1Gh4A)
+[<img src="https://raw.githubusercontent.com/himoon/my-first-coding-se/refs/heads/main/images/se_book_cover_3d.png" height="150">](https://github.com/himoon/my-first-coding-se/wiki)
+[<img src="https://raw.githubusercontent.com/himoon/gopython/refs/heads/main/images/cover_1st.png" height="150">](https://github.com/himoon/gopython)
 
-<!---
-himoon/himoon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 📫 How to reach me
+
+[![YouTube Badge](https://img.shields.io/badge/-YouTube-red?style=for-the-badge&logo=youtube&link=https://www.youtube.com/channel/UCK3srTIIG3LtqQRDFH1Gh4A)](https://www.youtube.com/channel/UCK3srTIIG3LtqQRDFH1Gh4A)
